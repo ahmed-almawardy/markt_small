@@ -1,0 +1,8 @@
+env
+venv
+.env
+Env
+ENV
+Venv
+
+*.sql*
